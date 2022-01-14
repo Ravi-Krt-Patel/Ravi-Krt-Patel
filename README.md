@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar patel</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A Passionate Software Engineer Based In India 👨‍💻</h3>
 
 - 🌱 I’m currently learning **React JS**
 
