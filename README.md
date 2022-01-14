@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/@patel18_ravi" target="blank"><img src="https://img.shields.io/twitter/follow/@patel18_ravi?logo=twitter&style=for-the-badge" alt="@patel18_ravi" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
+- 📄 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 
 - 👨‍💻 All of my projects are available at [https://ravikpatel.vercel.app/#home](https://ravikpatel.vercel.app/#home)
