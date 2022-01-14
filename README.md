@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar patel</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A Passionate Software Engineer Based In India 👨‍💻</h3>
 
 <p align="left"> <a href="https://twitter.com/@patel18_ravi" target="blank"><img src="https://img.shields.io/twitter/follow/@patel18_ravi?logo=twitter&style=for-the-badge" alt="@patel18_ravi" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
+- 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 
 - 👨‍💻 All of my projects are available at [https://ravikpatel.vercel.app/#home](https://ravikpatel.vercel.app/#home)
 
