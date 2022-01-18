@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/13YWpyUgUYCUzqdlC9Or4Z0NowLLPOs2_/view?usp=sharing](https://drive.google.com/file/d/13YWpyUgUYCUzqdlC9Or4Z0NowLLPOs2_/view?usp=sharing)
 
 <h3 align="left">About me:</h3>
-<p>this is me</p>
+<p>Innovative Web Developer with a passion to build and launch new projects. I enjoy creating user-friendly applications and have a knack in backend development. Passionate to deliver precised and systematic code. A self-motivated person, along with a team player, and ardent in solving diverse problems. My other interest includes Reading books, playing guitar and cricket.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
