@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar patel</h1>
 <h3 align="center">A Passionate Software Engineer Based In India 👨‍💻</h3>
 
-<p align="left"> <a href="https://twitter.com/@patel18_ravi" target="blank"><img src="https://img.shields.io/twitter/follow/@patel18_ravi?logo=twitter&style=for-the-badge" alt="@patel18_ravi" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@patel18_ravi" target="blank"><img src="https://img.shields.io/twitter/follow/@patel18_ravi?logo=twitter&style=for-the-badge" alt="@patel18_ravi" /></a> </p> -->
+
 
 - 🌱 I’m currently learning **React JS**
 - 📄 I love to code, build things & solve problems.
@@ -14,7 +15,7 @@
 - 📫 How to reach me **ravikumar030494@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13YWpyUgUYCUzqdlC9Or4Z0NowLLPOs2_/view?usp=sharing](https://drive.google.com/file/d/13YWpyUgUYCUzqdlC9Or4Z0NowLLPOs2_/view?usp=sharing)
-- 
+
 <h3 align="left">About me:</h3>
 <p>this is me</p>
 
