@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ravikumar030494@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14URYOH9fWFb7Op16c1XF17_-EykSWkW5/view?usp=sharing](https://drive.google.com/file/d/17ffFdQV05J4fpHQAWxKP3NaQ7FDlt5PJ/view?usp=share_link)](https://drive.google.com/file/d/14URYOH9fWFb7Op16c1XF17_-EykSWkW5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BqT-VunCKDbzce6SrlNST6nzqsnBoxIk/view?usp=share_link](https://drive.google.com/file/d/1BqT-VunCKDbzce6SrlNST6nzqsnBoxIk/view?usp=share_link)](https://drive.google.com/file/d/1BqT-VunCKDbzce6SrlNST6nzqsnBoxIk/view?usp=share_link)
 
 <h3 align="left">About me:</h3>
 <p>Innovative Web Developer with a passion to build and launch new projects. I enjoy creating user-friendly applications and have a knack in backend development. Passionate to deliver precised and systematic code. A self-motivated person, along with a team player, and ardent in solving diverse problems. My other interest includes Reading books, playing guitar and cricket.</p>
